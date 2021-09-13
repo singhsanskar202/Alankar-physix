@@ -16,8 +16,6 @@ int main()
     int n;
     double x1, x2, y;
 float dx=0.01;
-vector<double>a;
-vector<double>b;
     cout<<"enter x1"<<endl;
     cin>>x1;
     cout<<"enter x2"<<endl;
